@@ -20,7 +20,7 @@ The goal is to learn a single, biologically sensible and reproducible cutoff on 
 | Another\_pathway              | 0.05  | 0.08 | 0.01  | 0.11 | 0.02  | 0.10 | 0.04  | 0.09 |
 
 
-# Disease Severity Cutoff (GSVA) – Colon (Usti) Example
+# Disease Severity Cutoff (GSVA) Example
 
 **What it does**
 - Loads metadata (`Sample.ID`, `Condition`) and GSVA scores for a chosen pathway.
