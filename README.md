@@ -1,5 +1,5 @@
-***AIM***
-The goal is to learn a single, biologically sensible and reproducible cutoff on a disease-severity GSVA score that separates inflamed vs. uninflamed biology and, when possible, translates that into Responder vs. Non-responder calls for treated samples. The pipeline prefers supervised evidence (ROCs from curated contrasts) and gracefully falls back to an unsupervised valley/median if labels are thin—while leaving a full paper trail of decisions and plots.
+***AIM*** <br>
+The goal is to learn a single, biologically sensible and reproducible cutoff on a disease-severity GSVA score that separates inflamed vs. uninflamed biology and, when possible, translates that into Responder vs. Non-responder calls for treated samples. The pipeline prefers supervised evidence (ROCs from curated contrasts) and gracefully falls back to an unsupervised valley/median if labels are thin while leaving a full paper trail of decisions and plots.
 
 <br>**Example of input metadata file:** <br>
 | Sample.ID | Condition                    | PatientID | Timepoint |
